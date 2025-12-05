@@ -1,1 +1,0 @@
-select avg(height) from pokemon 
