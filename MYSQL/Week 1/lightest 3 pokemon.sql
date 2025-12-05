@@ -1,1 +1,0 @@
-select * from pokemon order by weight asc limit 3

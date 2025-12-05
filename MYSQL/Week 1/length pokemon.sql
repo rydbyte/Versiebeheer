@@ -1,1 +1,0 @@
-select name, height from pokemon order by height desc limit 10

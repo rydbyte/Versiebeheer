@@ -1,1 +1,0 @@
-select * from pokemon order by id desc

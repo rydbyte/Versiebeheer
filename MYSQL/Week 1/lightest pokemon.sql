@@ -1,1 +1,0 @@
-select name, base_experience from pokemon order by weight asc limit 1
